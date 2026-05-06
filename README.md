@@ -4,6 +4,12 @@
 
 ---
 
+## 🚀 Live Demo
+
+**[View Live App](https://shelf-inventory.vercel.app/)** — https://shelf-inventory.vercel.app/
+
+---
+
 ## 📋 Table of Contents
 
 1. [Project Overview](#1-project-overview)
